@@ -1,4 +1,8 @@
 .Form {
-    display: flex;
+    display: none;
     flex-direction: column;
+}
+
+.Form-visible {
+    display: flex;
 }
